@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="@color/toolbar_blue">
+            <ImageButton
+                android:id="@+id/backButtonDetails"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:contentDescription="@string/todo_details"
+                android:src="@drawable/baseline_arrow_back_24"
+                android:background="@android:color/transparent"/>
+        </Toolbar>
+
+        <TextView
+            android:id="@+id/newsTitleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:lineSpacingExtra="4dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginTop="15dp"
+            tools:text="@string/judul_news_detail" />
+
+        <ImageView
+            android:id="@+id/newsPhotos"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/foto1"/>
+
+
+        <TextView
+            android:id="@+id/newsDateCategoryTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_marginBottom="16dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            tools:text="@string/category_details_news" />
+
+        <TextView
+            android:id="@+id/newsContentTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            tools:text="@string/desc_news_detail" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

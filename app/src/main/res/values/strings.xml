@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">KotlinSubmission</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_item">Perang Ukraina VS Rusia</string>
+    <string name="desc_item">Ukraina menyatakan kemenangan</string>
+    <string name="judul_news_detail">Breaking News: Exciting New Discovery in Technology</string>
+    <string name="category_details_news">Technology • November 16, 2024</string>
+    <string name="desc_news_detail">This is the description of the news ehe</string>
+    <string name="todo_details">Back Button</string>
+    <string name="TODO_MainaCTIVITY">This is profile button</string>
+    <string name="name_for_about">Raditya Aryabudhi Ramadhan</string>
+    <string name="email_for_about">radityaramadhan.138@gmail.com</string>
+
+    <string-array name="data_judul">
+        <item>Indonesia Merdeka Perdebatan</item>
+        <item>Pemilu 2024: Tantangan dan Harapan</item>
+        <item>Pertumbuhan Ekonomi Indonesia</item>
+        <item>Teknologi AI: Dampak di Masa Depan</item>
+        <item>Perubahan Iklim dan Indonesia</item>
+        <item>Pendidikan di Era Digital</item>
+        <item>Transportasi Umum Masa Depan</item>
+        <item>Kuliner Nusantara Mendunia</item>
+        <item>Keamanan Siber: Ancaman dan Solusi</item>
+        <item>Olahraga: Prestasi Anak Bangsa</item>
+        <item>Seni dan Budaya Lokal yang Dilestarikan</item>
+    </string-array>
+
+    <string-array name="desc_judul">
+        <item>Apakah Indonesia merdeka? Ini masih menjadi perdebatan para publik</item>
+        <item>Pemilu 2024 diharapkan membawa perubahan besar bagi Indonesia, namun ada tantangan yang harus dihadapi.</item>
+        <item>Pertumbuhan ekonomi Indonesia menunjukkan tren positif meski menghadapi tekanan global.</item>
+        <item>Artificial Intelligence menjadi salah satu teknologi yang akan mengubah cara hidup manusia di masa depan.</item>
+        <item>Perubahan iklim menjadi ancaman serius yang membutuhkan tindakan nyata dari masyarakat dan pemerintah.</item>
+        <item>Bagaimana pendidikan Indonesia dapat memanfaatkan teknologi digital untuk kemajuan generasi muda?</item>
+        <item>Inovasi transportasi umum berbasis teknologi untuk mendukung mobilitas di kota besar.</item>
+        <item>Kuliner khas Indonesia semakin dikenal di mancanegara berkat promosi budaya.</item>
+        <item>Serangan siber semakin meningkat, bagaimana Indonesia melindungi data dan privasi warganya?</item>
+        <item>Prestasi atlet muda Indonesia terus menorehkan sejarah di kancah olahraga internasional.</item>
+        <item>Pentingnya melestarikan seni dan budaya lokal untuk menjaga identitas bangsa.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/foto1</item>
+        <item>@drawable/foto2</item>
+        <item>@drawable/foto3</item>
+        <item>@drawable/foto4</item>
+        <item>@drawable/foto5</item>
+        <item>@drawable/foto6</item>
+        <item>@drawable/foto7</item>
+        <item>@drawable/foto8</item>
+        <item>@drawable/foto9</item>
+        <item>@drawable/foto10</item>
+        <item>@drawable/foto11</item>
+
+    </string-array>
+
+    <string-array name="news_categories">
+        <item>Politik</item>
+        <item>Politik</item>
+        <item>Ekonomi</item>
+        <item>Teknologi</item>
+        <item>Lingkungan</item>
+        <item>Pendidikan</item>
+        <item>Transportasi</item>
+        <item>Kuliner</item>
+        <item>Keamanan Siber</item>
+        <item>Olahraga</item>
+        <item>Seni dan Budaya</item>
+    </string-array>
+
+    <string-array name="news_full_content">
+    <item>
+        Indonesia Merdeka Perdebatan
+        <br/>
+        Apakah Indonesia merdeka? Ini masih menjadi perdebatan yang hangat di kalangan masyarakat dan politisi. Sementara sebagian pihak percaya bahwa kemerdekaan Indonesia belum sepenuhnya tercapai, banyak juga yang menganggap kita sudah merdeka secara nyata. Isu ini mencuat dalam berbagai diskusi sosial dan politik yang masih berlangsung hingga saat ini. Perdebatan ini mencakup berbagai aspek, mulai dari kemerdekaan politik, ekonomi, hingga sosial, yang seharusnya sudah menjadi kenyataan namun terkendala oleh masalah-masalah struktural yang belum selesai.
+    </item>
+        <item>
+        Pemilu 2024: Tantangan dan Harapan
+        <br/>
+        Pemilu 2024 akan menjadi salah satu titik balik bagi Indonesia dalam menentukan arah kebijakan negara di masa depan. Namun, tantangan besar dihadapi oleh para calon pemimpin, seperti meningkatnya polarisasi politik dan kebutuhan untuk menjawab masalah ekonomi dan sosial yang mendalam. Pemilu kali ini juga harus memperhatikan kesenjangan yang masih terjadi antar daerah, serta bagaimana mengoptimalkan pemilih muda yang semakin berperan dalam memilih calon pemimpin mereka. Bagaimana para calon presiden dan legislatif dapat membawa harapan perubahan untuk negara ini akan sangat tergantung pada visi yang mereka tawarkan kepada masyarakat.
+    </item>
+        <item>
+        Pertumbuhan Ekonomi Indonesia
+        <br/>
+        Pertumbuhan ekonomi Indonesia mengalami perkembangan yang positif meskipun terdapat berbagai tekanan dari situasi global, seperti inflasi dan resesi ekonomi di beberapa negara besar. Pemerintah telah menerapkan berbagai kebijakan untuk mendukung sektor-sektor penting seperti industri, perdagangan, dan investasi untuk menjaga momentum pertumbuhan yang berkelanjutan. Selain itu, sektor digital dan ekonomi kreatif juga mulai menunjukkan kontribusi yang signifikan terhadap perekonomian nasional. Meskipun demikian, tantangan utama yang harus dihadapi adalah bagaimana mengatasi ketimpangan ekonomi antar daerah serta memastikan bahwa pertumbuhan ini bisa dinikmati oleh seluruh lapisan masyarakat.
+    </item>
+        <item>
+        Teknologi AI: Dampak di Masa Depan
+        <br/>
+        Teknologi Artificial Intelligence (AI) semakin menunjukkan potensi besar dalam mengubah banyak aspek kehidupan manusia, dari pekerjaan hingga cara kita berinteraksi dengan teknologi. Di masa depan, AI diprediksi akan menjadi bagian integral dari berbagai sektor industri dan kehidupan sehari-hari, memberikan solusi efisiensi yang sebelumnya tidak terbayangkan. Di sektor kesehatan, AI bisa membantu diagnosa penyakit lebih cepat dan akurat, sementara di sektor industri, AI dapat menggantikan pekerjaan manusia dalam beberapa aspek, yang tentu saja membawa tantangan baru dalam hal tenaga kerja dan etika.
+    </item>
+        <item>
+        Perubahan Iklim dan Indonesia
+        <br/>
+        Perubahan iklim menjadi ancaman global yang memengaruhi semua negara, termasuk Indonesia. Dampak dari perubahan cuaca yang ekstrem, seperti banjir dan kekeringan, sudah dirasakan oleh masyarakat di berbagai daerah. Indonesia yang berada di kawasan tropis sangat rentan terhadap bencana alam yang dipicu oleh perubahan iklim, seperti banjir rob dan kebakaran hutan. Pemerintah dan masyarakat diharapkan untuk bekerja sama dalam mengurangi dampak negatif dan memperkuat ketahanan terhadap perubahan iklim yang semakin tak terelakkan. Ini termasuk mengurangi emisi gas rumah kaca dan meningkatkan penggunaan energi terbarukan.
+    </item>
+        <item>
+        Pendidikan di Era Digital
+        <br/>
+        Di tengah pesatnya perkembangan teknologi digital, Indonesia harus segera memanfaatkan teknologi ini untuk meningkatkan kualitas pendidikan. Dengan adanya akses ke internet dan perangkat teknologi, pendidikan berbasis digital dapat menjadi solusi untuk mengatasi keterbatasan jumlah guru dan fasilitas pendidikan di daerah terpencil. Program-program pembelajaran daring, seperti platform e-learning dan aplikasi pembelajaran, semakin banyak digunakan oleh siswa dan guru untuk mendukung proses belajar mengajar. Tentu saja, peran pemerintah dan sektor swasta sangat penting untuk memastikan infrastruktur dan akses teknologi yang merata bagi seluruh siswa di seluruh Indonesia.
+    </item>
+        <item>
+        Transportasi Umum Masa Depan
+        <br/>
+        Di kota-kota besar Indonesia, transportasi umum menjadi salah satu masalah utama. Untuk itu, inovasi teknologi dalam sistem transportasi umum mulai diterapkan, seperti penggunaan aplikasi untuk memantau jadwal dan kapasitas kendaraan. Selain itu, adanya rencana pembangunan transportasi berbasis ramah lingkungan menjadi salah satu langkah menuju transportasi umum masa depan yang lebih efisien. Pemerintah Indonesia berencana untuk memperkenalkan sistem transportasi berbasis listrik dan memodernisasi infrastruktur transportasi untuk mendukung mobilitas yang lebih baik di tengah urbanisasi yang terus berkembang.
+    </item>
+        <item>
+        Kuliner Nusantara Mendunia
+        <br/>
+        Keberagaman kuliner Indonesia tidak hanya dikenal di dalam negeri, namun juga semakin mendunia. Melalui promosi budaya dan pengenalan makanan khas Indonesia di berbagai event internasional, seperti festival kuliner, masyarakat dunia mulai mengenal dan menghargai cita rasa kuliner Nusantara yang khas dan beragam. Makanan seperti rendang, nasi goreng, dan sate kini menjadi populer di luar negeri. Banyak restoran Indonesia di berbagai negara mulai menjamur, menjadikan kuliner Indonesia bagian dari budaya global.
+    </item>
+        <item>
+        Keamanan Siber: Ancaman dan Solusi
+        <br/>
+        Keamanan siber menjadi salah satu isu besar di era digital saat ini. Serangan siber terus meningkat, yang mengancam data pribadi serta keamanan informasi negara. Indonesia harus lebih serius dalam meningkatkan sistem perlindungan siber dan kebijakan terkait untuk melindungi warganya dari potensi ancaman siber yang semakin canggih. Berbagai lembaga pemerintah dan sektor swasta telah mulai bekerja sama untuk membangun infrastruktur keamanan yang lebih kuat, dengan memperkenalkan sistem keamanan berbasis enkripsi dan melatih tenaga ahli di bidang keamanan siber.
+    </item>
+        <item>
+        Olahraga: Prestasi Anak Bangsa
+        <br/>
+        Indonesia terus mencatatkan prestasi gemilang di dunia olahraga internasional. Atlet-atlet muda Indonesia, dari berbagai cabang olahraga, telah membuktikan kemampuannya dengan memenangkan medali di ajang-ajang bergengsi seperti SEA Games dan Asian Games. Prestasi mereka menjadi kebanggaan bangsa dan inspirasi bagi generasi muda untuk berprestasi lebih baik lagi. Keberhasilan ini juga tidak lepas dari dukungan pemerintah dalam membangun fasilitas olahraga dan pelatihan yang memadai untuk mencetak atlet berbakat.
+    </item>
+        <item>
+        Seni dan Budaya Lokal yang Dilestarikan
+        <br/>
+        Seni dan budaya lokal Indonesia adalah warisan yang harus dilestarikan. Di tengah perkembangan zaman yang pesat, keberadaan seni dan budaya tradisional seperti tari, musik, dan kerajinan tangan tetap memiliki tempat yang penting dalam kehidupan masyarakat. Program pelestarian seni dan budaya lokal terus digalakkan untuk menjaga identitas dan kekayaan budaya bangsa. Selain itu, seni dan budaya lokal juga menjadi daya tarik wisata yang mendatangkan manfaat ekonomi bagi masyarakat setempat melalui industri kreatif.
+    </item>
+    </string-array>
+
+
+
+
+</resources>
